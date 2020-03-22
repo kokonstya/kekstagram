@@ -1,2 +1,2 @@
 # kekstagram
- Учебный проект kekstagram
+ Учебный проект kekstagram https://kokonstya.github.io/kekstagram/.
